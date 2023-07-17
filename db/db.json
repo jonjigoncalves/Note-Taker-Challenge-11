@@ -1,0 +1,28 @@
+{
+  "notePad": [
+    {
+      "title": "Test Title",
+      "text": "Test text"
+    },
+    {
+      "title": "Is this working?",
+      "text": "Please working",
+      "id": "1"
+    },
+    {
+      "title": "Seems to be adding notes",
+      "text": "100th test haha",
+      "id": "2"
+    },
+    {
+      "title": "Now i can stop ",
+      "text": "can get some sleep???",
+      "id": "3"
+    },
+    {
+      "title": "Yes!!!",
+      "text": "zzzzzzz",
+      "id": "4"
+    }
+  ]
+}

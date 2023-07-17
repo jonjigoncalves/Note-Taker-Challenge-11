@@ -76,3 +76,23 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
