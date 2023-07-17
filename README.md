@@ -39,7 +39,7 @@ The following images show the web application's appearance and functionality:
 
 ![Screenshot of the Completed app with notes](./Assets/Capture.JPG)
 ![GitHub](https://github.com/jonjigoncalves/Note-Taker-Challenge-11)
-![Heroku](./Assets/Capture.JPG)
+![Heroku](https://serene-forest-98819-08b40b9c489b.herokuapp.com/)
 
 
 
